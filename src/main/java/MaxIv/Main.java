@@ -10,6 +10,7 @@ public class Main {
         cycles.CycleWile();
         cycles.CycleWileTrue();
         cycles.CycleFor();
+        cycles.CycleForEach();
 
     }
 }
